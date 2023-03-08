@@ -28,5 +28,5 @@ Ready to help team achieve company goal.
 
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/API-informational?style=flat&logo=API&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/SQLServerManagementStudio-informational?style=flat&logo=SSMS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-API-informational?style=flat&logo=API&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-SQLServerManagementStudio-informational?style=flat&logo=SSMS&logoColor=white&color=4AB197)
