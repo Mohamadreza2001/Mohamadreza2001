@@ -26,7 +26,7 @@ Ready to help team achieve company goal.
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/FrameWork-.NET-informational?style=flat&logo=.Net&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-API-informational?style=flat&logo=api&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/DataBase-SQLServerManagementStudio-informational?style=flat&logo=SSMS&logoColor=white&color=4AB197)
