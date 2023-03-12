@@ -1,34 +1,21 @@
-﻿![GithubBanner](https://user-images.githubusercontent.com/103823068/223725341-37b58d6e-378a-49dc-99cf-402eb8af2366.png)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mohammadreza-mirdar-%D9%85%D8%AD%D9%85%D8%AF%D8%B1%D8%B6%D8%A7-%D9%85%DB%8C%D8%B1%D8%AF%D8%A7%D8%B1-822a5823a/)
+﻿<h1 align="center">Hi 👋, I'm Mohammadreza</h1>
+<h3 align="center">A passionate backend developer</h3>
 
-Hello I’m Mohammadreza 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadreza2001&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadreza2001" /> </p>
 
-An enthusiastic person who loves his job. eager to contribute team success through perseverance , paying attention to details and
+- 🌱 I’m currently learning **Asp.net web api**
 
-organized skills. Clear understanding of Back-End.Motivated to learn , eager and efficient in programming. Hardworking and passionate.
+- 💬 Ask me about **C#, .net framework , EF , SSMS**
 
-Ready to help team achieve company goal.
+- 📫 How to reach me **mohammadrezamirdar2001@gmail.com**
 
-## &#x1f4c8; GitHub Stats
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/mohammadreza__mirdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammadreza__mirdar" height="30" width="40" /></a>
+<a href="https://discord.gg/5316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5316" height="30" width="40" /></a>
+</p>
 
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-<a href="https://github.com/Mohammadreza2001">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadreza2001&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Mohammadreza2001">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Mohammadreza2001&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-<br>
-<br>
-
-## 💼 Skills
-
-![](https://img.shields.io/badge/BackEnd-information?style=flat&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/ProgrammingLanguage-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/FrameWork-.NET-informational?style=flat&logo=.Net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/RestfulAPI-informational?style=flat&logo=api&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/DataBase-SSMS-informational?style=flat&logo=MicrosoftSQLServer&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/ORM-Linq-informational?style=flat&logo=Linq&logoColor=white&color=4AB197)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamadreza2001&show_icons=true&locale=en&layout=compact" alt="mohamadreza2001" /></p>
