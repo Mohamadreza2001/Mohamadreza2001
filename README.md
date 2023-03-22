@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Asp.net web api**
 
-- 💬 Ask me about **C#, .net framework , EF , SSMS , Restful api**
+- 💬 Ask me about **C#, .Net framework , EF , SSMS , Restful api**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohamadreza2001](https://github.com/Mohamadreza2001)
 
