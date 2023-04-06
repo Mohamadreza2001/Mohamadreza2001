@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Asp.net core web api**
 
-- 💬 Ask me about C#, .Net framework , EF , SSMS , Restful api , Linq , OOP
+- 💬 Ask me about C#, .Net framework , EF , SSMS , Restful api , Linq , OOP , Dependency injection
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohamadreza2001](https://github.com/Mohamadreza2001)
 
