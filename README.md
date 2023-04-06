@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadreza2001&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadreza2001" /> </p>
 
-- 🌱 I’m currently learning **Asp.net web api**
+- 🌱 I’m currently learning **Asp.net core web api**
 
 - 💬 Ask me about C#, .Net framework , EF , SSMS , Restful api , Linq , OOP
 
