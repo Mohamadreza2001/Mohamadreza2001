@@ -8,7 +8,7 @@
 
 - I live in **Iran**
 
-- 💬 Ask me about C#, .Net framework , EF , SSMS , Restful api , Linq , OOP , Dependency injection
+- 💬 Ask me about C#, .Net framework , EF , SSMS , Restful api , Linq , OOP , Dependency injection , 3 layer architecture
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohamadreza2001](https://github.com/Mohamadreza2001)
 
