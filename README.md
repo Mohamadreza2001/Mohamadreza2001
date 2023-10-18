@@ -1,6 +1,6 @@
 ﻿![GithubBanner](https://user-images.githubusercontent.com/103823068/223725341-37b58d6e-378a-49dc-99cf-402eb8af2366.png)
 <h1 align="center">Hi 👋, I'm Mohammadreza</h1>
-<h3 align="center">A hardworking backend developer</h3>
+<h3 align="center">A Dotnet backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadreza2001&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadreza2001" /> </p>
 
