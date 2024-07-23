@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadreza2001&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadreza2001" /> </p>
 
-- 🌱 I’m currently learning **Asp.net core**
+- 🌱 I’m currently learning **Asp.net core Microservices**
 
 - I live in **Iran**
 
-- 💬 Ask me about C#, .Net core, SSMS, Mongo DB, Restful api, OOP, Clean architecture, DDD, CQRS, Unit test
+- 💬 Ask me about C#, .Net core, SSMS, Mongo DB, Restful api, OOP, Clean architecture, DDD, CQRS, Unit test, Docker,MySql
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohamadreza2001](https://github.com/Mohamadreza2001)
 
