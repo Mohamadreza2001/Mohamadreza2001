@@ -24,18 +24,18 @@
 
 <p/>
 
-  <h3 align="left">Connect with me:</h3>
-<p align="left">
+  <h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/mohammadreza-mirdar-محمدرضا-میردار-822a5823a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadreza-mirdar-محمدرضا-میردار-822a5823a" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammadreza__mirdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammadreza__mirdar" height="30" width="40" /></a>
 <a href="https://discord.gg/781401760777633792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="781401760777633792" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
