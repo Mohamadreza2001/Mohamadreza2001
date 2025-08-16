@@ -20,7 +20,7 @@
 
 <p align="center">
 
-<img src="https://user-images.githubusercontent.com/103823068/224567561-6273bd3a-e857-4f91-a6a1-85c08a4fc1d6.gif" width="600" />
+<img src="https://user-images.githubusercontent.com/103823068/224567561-6273bd3a-e857-4f91-a6a1-85c08a4fc1d6.gif" width="400" />
 
 <p/>
 
