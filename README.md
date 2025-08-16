@@ -1,4 +1,8 @@
-﻿![GithubBanner](https://user-images.githubusercontent.com/103823068/223725341-37b58d6e-378a-49dc-99cf-402eb8af2366.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103823068/223725341-37b58d6e-378a-49dc-99cf-402eb8af2366.png" 
+       alt="GithubBanner" 
+       width="800" />
+</p>
 <h1 align="center">Hi 👋, I'm Mohammadreza</h1>
 <h3 align="center">A Dotnet backend developer</h3>
 
