@@ -18,9 +18,13 @@
 
 - 📫 How to reach me **mohammadrezamirdar2001@gmail.com** , **+989304196679**
 
+<p align="center">
+
 <img src="https://user-images.githubusercontent.com/103823068/224567561-6273bd3a-e857-4f91-a6a1-85c08a4fc1d6.gif" width="600" />
 
-<h3 align="left">Connect with me:</h3>
+<p/>
+
+  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammadreza-mirdar-محمدرضا-میردار-822a5823a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadreza-mirdar-محمدرضا-میردار-822a5823a" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammadreza__mirdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammadreza__mirdar" height="30" width="40" /></a>
