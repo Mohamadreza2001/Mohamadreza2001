@@ -58,7 +58,9 @@
 </div>
 
 ###
+<p align="center">
+  <a href="https://github.com/Mohamadreza2001">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Mohamadreza2001&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Mohammadreza's GitHub Stats" />
+  </a>
 
-<a href="https://github.com/Mohamadreza2001">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Mohamadreza2001&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Mohammadreza's GitHub Stats" />
-</a>
+<p/>
